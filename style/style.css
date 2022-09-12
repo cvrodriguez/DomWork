@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+
+}
+main{
+    width: 70%;
+    background-color: white;
+    border: 5px black solid;
+    padding: 30px;
+    margin: 15px;
+}
+/* .section-1{
+    display: flex;
+    justify-content: center;
+} */
+.section-1 p{
+    text-align: justify;
+   
+}
+.section-1 img{
+    justify-self: center;
+
+}
+.section-1 h1{
+    font-size: 35px;
+}
+.codaisseur-ima{
+    display: flex;
+    justify-content: center;
+}
+.button-section-1{
+    width: 100%;
+    height: 40px;
+    background-color: #F3F3F3 ;
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+    text-align: left;
+}
+.button-section-1:hover{
+    background-color: #BFBFBF ;
+
+}
